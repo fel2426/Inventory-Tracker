@@ -35,3 +35,5 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # Inventory-Tracker
+
+This is a simple Inventory-Tracker that uses next.js, react , material.ui and firebase. The frontend design is inspired by shelves where you would store items on a shelve. It is a simple tracker that combines both front-end and back-end elements.
